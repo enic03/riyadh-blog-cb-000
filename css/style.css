@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Gabriela);
+@import url(https://fonts.googleapis.com/css?family=Cormorant+SC);
 
 html, body {
   height: 100%;
@@ -7,6 +7,7 @@ html, body {
 
 body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: linear-gradient(to bottom, #05abe0 0%,#53cbf1 60%,#87e0fd 100%);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -25,7 +26,7 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Cormorant+SC', serif;
   color: #fff;
 }
 
@@ -40,7 +41,7 @@ h2 {
 }
 
 h3 {
-  font-family: 'Gabriela', serif;
+  font-family: 'Cormorant+SC', serif;
   font-size: 1.5em;
   margin-top: .5em;
 }
